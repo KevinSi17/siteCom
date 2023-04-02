@@ -1,0 +1,97 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+.section-announced .announced-item-ios-16 .bg-image { background-image:url(/euro/apple-events/home/a/screens_alt/images/overview/products/ios_16__bnjdrx027ij6_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .section-announced .announced-item-ios-16 .bg-image { background-image:url(/euro/apple-events/home/a/screens_alt/images/overview/products/ios_16__bnjdrx027ij6_large_2x.jpg); }
+}
+@media only screen and (max-width:734px) {
+  .section-announced .announced-item-ios-16 .bg-image { background-image:url(/euro/apple-events/home/a/screens_alt/images/overview/products/ios_16__bnjdrx027ij6_small.jpg); }
+}
+@media only screen and (max-width:734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+  .section-announced .announced-item-ios-16 .bg-image { background-image:url(/euro/apple-events/home/a/screens_alt/images/overview/products/ios_16__bnjdrx027ij6_small_2x.jpg); }
+}
+.section-announced .announced-item-macos-ventura .bg-image { background-image:url(/euro/apple-events/home/a/screens_alt/images/overview/products/macos_ventura__dlqy8re0rnau_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .section-announced .announced-item-macos-ventura .bg-image { background-image:url(/euro/apple-events/home/a/screens_alt/images/overview/products/macos_ventura__dlqy8re0rnau_large_2x.jpg); }
+}
+@media only screen and (max-width:734px) {
+  .section-announced .announced-item-macos-ventura .bg-image { background-image:url(/euro/apple-events/home/a/screens_alt/images/overview/products/macos_ventura__dlqy8re0rnau_small.jpg); }
+}
+@media only screen and (max-width:734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+  .section-announced .announced-item-macos-ventura .bg-image { background-image:url(/euro/apple-events/home/a/screens_alt/images/overview/products/macos_ventura__dlqy8re0rnau_small_2x.jpg); }
+}
+
+.fall-2022 .section-announced .announced-item-iphone-14 .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/iphone14__3fc9ib6935ua_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .fall-2022 .section-announced .announced-item-iphone-14 .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/iphone14__3fc9ib6935ua_large_2x.jpg); }
+}
+@media only screen and (max-width:734px) {
+  .fall-2022 .section-announced .announced-item-iphone-14 .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/iphone14__3fc9ib6935ua_small.jpg); }
+}
+@media only screen and (max-width:734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+  .fall-2022 .section-announced .announced-item-iphone-14 .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/iphone14__3fc9ib6935ua_small_2x.jpg); }
+}
+.fall-2022 .section-announced .announced-item-apple-watch-ultra .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchultra__bqlr0nlbjk02_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .fall-2022 .section-announced .announced-item-apple-watch-ultra .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchultra__bqlr0nlbjk02_large_2x.jpg); }
+}
+@media only screen and (max-width:734px) {
+  .fall-2022 .section-announced .announced-item-apple-watch-ultra .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchultra__bqlr0nlbjk02_small.jpg); }
+}
+@media only screen and (max-width:734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+  .fall-2022 .section-announced .announced-item-apple-watch-ultra .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchultra__bqlr0nlbjk02_small_2x.jpg); }
+}
+.fall-2022 .section-announced .announced-item-apple-watch-series-8 .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchseries8__bamvmsddem0i_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .fall-2022 .section-announced .announced-item-apple-watch-series-8 .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchseries8__bamvmsddem0i_large_2x.jpg); }
+}
+@media only screen and (max-width:734px) {
+  .fall-2022 .section-announced .announced-item-apple-watch-series-8 .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchseries8__bamvmsddem0i_small.jpg); }
+}
+@media only screen and (max-width:734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+  .fall-2022 .section-announced .announced-item-apple-watch-series-8 .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchseries8__bamvmsddem0i_small_2x.jpg); }
+}
+.fall-2022 .section-announced .announced-item-apple-watch-se .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchse__b2p1j4xm6upe_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .fall-2022 .section-announced .announced-item-apple-watch-se .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchse__b2p1j4xm6upe_large_2x.jpg); }
+}
+@media only screen and (max-width:734px) {
+  .fall-2022 .section-announced .announced-item-apple-watch-se .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchse__b2p1j4xm6upe_small.jpg); }
+}
+@media only screen and (max-width:734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+  .fall-2022 .section-announced .announced-item-apple-watch-se .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applewatchse__b2p1j4xm6upe_small_2x.jpg); }
+}
+.fall-2022 .section-announced .announced-item-apple-fitness-plus .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applefitnessplus__bm53n6db6b0i_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .fall-2022 .section-announced .announced-item-apple-fitness-plus .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applefitnessplus__bm53n6db6b0i_large_2x.jpg); }
+}
+@media only screen and (max-width:734px) {
+  .fall-2022 .section-announced .announced-item-apple-fitness-plus .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applefitnessplus__bm53n6db6b0i_small.jpg); }
+}
+@media only screen and (max-width:734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+  .fall-2022 .section-announced .announced-item-apple-fitness-plus .bg-image { background-image:url(/fr/apple-events/home/images/overview/products/fall-2022/applefitnessplus__bm53n6db6b0i_small_2x.jpg); }
+}
+
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+#vodlink-asl {
+	display: none
+}
+
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/
